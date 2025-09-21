@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate around Java.
 - 📫 How to reach me - baljeetthakur230@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sometime procastinate, sometime focused. Still want to conquer 😂. 
+- ⚡ Exploring cloud, AI, and integration technologies while building practical projects and expanding my skills.
 
 <!---
 Baljeet7781/Baljeet7781 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
