@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Baljeet7781
 - 👀 I’m interested in multi-cloud env i.e. AWS, Azure and GCP.
 - 🌱 I’m currently learning something that I will reveal once I am confident.
-- 💞️ I’m looking to collaborate around Java.
-- 📫 How to reach me - baljeetthakur230@gmail.com
+- 💞️ I’m looking to collaborate around Cloud.
+- 📫 How to reach me - baljeetthakur.personal@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Exploring cloud, AI, and integration technologies while building practical projects and expanding my skills.
 
